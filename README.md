@@ -12,5 +12,4 @@ This repository contains my **quadruped robot project**, developed as my senior 
 - **ARDUİNO** (if applicable, for testing/simulation).  
 - **Hardware:** Servo motors, sensors, and microcontroller-based control.  
 
-## Getting Started 🛠️  
-Instructions for running the code and setting up the hardware (if applicable).  
+
